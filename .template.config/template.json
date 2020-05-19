@@ -1,0 +1,13 @@
+{
+    "author": "Ande Zeng", //必须
+    "classifications": [ "Web/WebAPI" ], //必须，这个对应模板的Tags
+    "name": "EventFlowTemplate", //必须，这个对应模板的Templates
+    "identity": "EventFlowTemplate", //可选，模板的唯一名称
+    "shortName": "eft", //必须，这个对应模板的Short Name
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "EventFlowTemplate", // 可选，要替换的名字
+    "preferNameDirectory": true // 可选，添加目录  
+}

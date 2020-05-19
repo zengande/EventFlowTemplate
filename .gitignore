@@ -1,0 +1,14 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/EventFlowTemplate
+/src/EventFlowTemplate.API/bin/Debug/netcoreapp3.1
+/src/EventFlowTemplate.API/obj
+/src/EventFlowTemplate.API/Properties
+/src/EventFlowTemplate.Application/bin/Debug/netstandard2.0
+/src/EventFlowTemplate.Application/obj
+/src/EventFlowTemplate.Domain/bin/Debug/netstandard2.0
+/src/EventFlowTemplate.Domain/obj
+/src/EventFlowTemplate.Infrastructure/bin/Debug/netstandard2.0
+/src/EventFlowTemplate.Infrastructure/obj
