@@ -2,4 +2,4 @@
 `dotnet new -i ./EventFlowTemplate`
 
 # Use
-dotnet new eft --name [your project's name]
+`dotnet new eft --name [your project's name]`
